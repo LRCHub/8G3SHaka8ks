@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "8ミリフィルム",
+  "base_artist": "アカシック",
+  "createdAt": "2025-12-23T07:06:35.958691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8ミリフィルム - 8mm Film",
+      "artist": "akasick",
+      "has_synced": true,
+      "path": "select/01_8ミリフィルム_-_8mm_Film_akasick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8ミリフィルム",
+      "artist": "アカシック",
+      "has_synced": false,
+      "path": "select/pl_01_8ミリフィルム_アカシック.txt"
+    }
+  ]
+}
